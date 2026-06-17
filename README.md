@@ -1,7 +1,7 @@
 # 🤟 Sign Language to Text Conversion
 
 <p align="center">
-  <img src="[https://github.com/ranayashwant/Sign-Language-to-Text-Conversion/blob/main/data/Screenshot%202024-08-14%20at%2012.41.27%E2%80%AFPM.png?raw=true]" alt="Sign Language Detection Demo" width="700"/>
+  <img src="data/Screenshot 2024-08-14 at 12.41.27 PM.png" alt="Sign Language Detection Demo" width="700"/>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Display Label + Bounding Box on Screen in Real-Time
 ## 📁 Dataset
 
 <p align="center">
-  <img src="images/dataset.png" alt="Dataset Sample" width="600"/>
+  <img src="data/2/0.jpg" alt="Dataset Sample" width="600"/>
 </p>
 
 - **400 images** collected manually using webcam (100 per class)

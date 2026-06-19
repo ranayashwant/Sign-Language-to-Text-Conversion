@@ -144,15 +144,6 @@ sign-language-to-text/
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Expand to full ASL alphabet (A–Z)
-- [ ] Add word-level prediction (not just individual letters)
-- [ ] Build a simple web UI using Flask + WebRTC
-- [ ] Support for dynamic gestures (movement-based signs)
-
----
-
 ## 👤 Author
 
 **Rana Yashwant Singh**
